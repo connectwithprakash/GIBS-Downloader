@@ -3,7 +3,7 @@ import os
 import warnings
 
 import cv2
-from cv2 import cv2
+# from cv2 import cv2
 from PIL import Image
 
 from GIBSDownloader.tiff_downloader import TiffDownloader
